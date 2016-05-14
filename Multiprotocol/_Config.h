@@ -25,8 +25,8 @@
 //Comment if a module is not installed
 #define A7105_INSTALLED
 #define CYRF6936_INSTALLED
-#define CC2500_INSTALLED
-#define NFR24L01_INSTALLED
+//#define CC2500_INSTALLED
+//#define NFR24L01_INSTALLED
 
 //Comment a protocol to exclude it from compilation
 #ifdef	A7105_INSTALLED
